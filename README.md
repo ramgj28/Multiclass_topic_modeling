@@ -1,1 +1,1 @@
-# Multiclass_topic_modeling
+Multiclass topic modeling using Glove word embeddings and GRU.
